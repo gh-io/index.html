@@ -1,8 +1,7 @@
 ---
-tittle: # docs.
-name: # gh.io
-Note: reStructuredText
-contents: 
+tittle: docs.
+name: gh.io
+contents: reStructuredText
 --- 
  
 ====================
